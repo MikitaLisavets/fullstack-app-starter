@@ -2,7 +2,7 @@ import App from './app';
 import dotenv from 'dotenv';
 // import mongoose from 'mongoose';
 
-dotenv.config()
+dotenv.config();
 
 const PORT = process.env.PORT || 3001;
 
